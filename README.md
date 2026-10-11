@@ -1,16 +1,13 @@
-## Hi there 👋
+# Softwiro
 
-<!--
-**softwiro/softwiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software company in Egypt. We design, build and operate business software, in Arabic and English.
 
-Here are some ideas to get you started:
+- Factory and production management: production tracking, costing, MES
+- Double-entry accounting, including accounting inside Telegram
+- Online stores, point of sale and inventory
+- Platforms for health, education and logistics
+- Applied AI: document reading, exam marking, forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Every system in our portfolio is running in production: https://softwiro.com/projects.html
+
+Contact: sales@softwiro.com
